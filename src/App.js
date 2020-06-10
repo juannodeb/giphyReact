@@ -1,9 +1,10 @@
 import React from 'react';
+import axios from 'axios';
 
-function App() {
+const App = () => {
   return (
     <div>
-      <h1>Hola desde App</h1>
+      <h1 className="text-center">GIFs</h1>
     </div>
   );
 }
