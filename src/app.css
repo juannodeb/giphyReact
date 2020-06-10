@@ -1,0 +1,9 @@
+body {
+  background-color: #ffffff;
+  background-image: url("https://www.transparenttextures.com/patterns/cardboard-flat.png");
+}
+
+.form-control:focus {
+  border: 0.1rem solid black;
+  box-shadow: 0 0 0.3rem gray;
+}
